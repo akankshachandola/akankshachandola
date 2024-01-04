@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akankshachandola
 - 👀 I’m interested in Cloud Native Development.
-- 🌱 I’m currently learning kafka and React application development.
+- 🌱 Learning Machine Learning.
 - 📫 How to reach me chandola.akanksha@gmail.com
 
 <!---
